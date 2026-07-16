@@ -17,7 +17,7 @@
   "test_prompts": [
     {
       "prompt_id": "tp_001",
-      "prompt": "what are the causes of cholera?"
+      "prompt": "what is hypertension?"
     },
     {
       "prompt_id": "tp_002",
